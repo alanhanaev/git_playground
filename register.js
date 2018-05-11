@@ -1,3 +1,3 @@
 function registration(login, password) {
-	return "YEs";
+	return "YES";
 }
